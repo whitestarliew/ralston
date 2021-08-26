@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @whitestarliew
 - 👀 I'm a cloud enthusiast
-- 🌱 I’m currently learning on the Docker,Kubernetes.
+- 🌱 anything goes well....
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 go go go 
 
 <!---
 whitestarliew/whitestarliew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
